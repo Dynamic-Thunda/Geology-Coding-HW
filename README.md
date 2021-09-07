@@ -1,1 +1,2 @@
-# Geology-Coding-HW
+# Geologist
+Geologist Project
